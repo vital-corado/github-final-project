@@ -4,7 +4,7 @@
    # Do not use this in production. Sample purpose only.
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # vital-corado
+   # Vital Corado
    # Input:
    # p, principal amount
    # t, time period in years
